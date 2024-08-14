@@ -1,5 +1,5 @@
-- My name is Lucas Moura
-- I know a bit of pyhton
+- Hey there, my name is Lucas Moura
+- Here you can see some of projects that i made and others that i participated
 - joia
 
 <!---
