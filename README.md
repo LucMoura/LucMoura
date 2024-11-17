@@ -4,7 +4,7 @@
 <br>
 
 ![LucMoura GitHub stats](https://github-readme-stats.vercel.app/api?username=LucMoura&show_icons=true&theme=dark&card)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucMoura&layout=compact&theme=dark&card)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucMoura&layout=compact&theme=dark&card_width=400)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LucMoura&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 Atualmente um estudante de Ciências da Computação apaixonado por resolver problemas e adquirir novos conhecimentos
