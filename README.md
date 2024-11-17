@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá+meu+nome+é+Lucas+Moura!;Dá+uma+olhada+nos+meus+repositórios;Aproveita+e+olha+meu+LinkedIn;Hello+my+name+is+Lucas+Moura!;Take+a+look+at+my+repositories;And+don’t+forget+to+check+out+my+LinkedIn;)](https://git.io/typing-svg)
 <br>
 
-![LucMoura GitHub stats](https://github-readme-stats.vercel.app/api?username=LucMoura&show_icons=true&theme=dark&card_width=500)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucMoura&layout=compact&theme=dark&card_width=500&card)
+![LucMoura GitHub stats](https://github-readme-stats.vercel.app/api?username=LucMoura&show_icons=true&theme=dark&card)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucMoura&layout=compact&theme=dark&card)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LucMoura&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 Atualmente um estudante de Ciências da Computação apaixonado por resolver problemas e adquirir novos conhecimentos
