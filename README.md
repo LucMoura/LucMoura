@@ -29,20 +29,20 @@ Estudante de Ciência da Computação em Brasília-DF. Gosto de entender o que a
 ## > ARSENAL
 
 **core**<br>
-![C](https://img.shields.io/badge/C-39FF14?style=for-the-badge&logo=c&logoColor=0A0A0A)
-![Rust](https://img.shields.io/badge/Rust-39FF14?style=for-the-badge&logo=rust&logoColor=0A0A0A)
-![Python](https://img.shields.io/badge/Python-39FF14?style=for-the-badge&logo=python&logoColor=0A0A0A)
-![PHP](https://img.shields.io/badge/PHP-39FF14?style=for-the-badge&logo=php&logoColor=0A0A0A)
-![SQL](https://img.shields.io/badge/SQL-39FF14?style=for-the-badge&logo=mysql&logoColor=0A0A0A)
+<img src="https://img.shields.io/badge/C-3FB950?style=for-the-badge&logo=c&logoColor=0A0A0A" height="36" alt="C">
+<img src="https://img.shields.io/badge/Rust-3FB950?style=for-the-badge&logo=rust&logoColor=0A0A0A" height="36" alt="Rust">
+<img src="https://img.shields.io/badge/Python-3FB950?style=for-the-badge&logo=python&logoColor=0A0A0A" height="36" alt="Python">
+<img src="https://img.shields.io/badge/PHP-3FB950?style=for-the-badge&logo=php&logoColor=0A0A0A" height="36" alt="PHP">
+<img src="https://img.shields.io/badge/SQL-3FB950?style=for-the-badge&logo=mysql&logoColor=0A0A0A" height="36" alt="SQL">
 
 **hardware**<br>
-![ESP8266](https://img.shields.io/badge/ESP8266-39FF14?style=for-the-badge&logo=espressif&logoColor=0A0A0A)
+<img src="https://img.shields.io/badge/ESP8266-3FB950?style=for-the-badge&logo=espressif&logoColor=0A0A0A" height="36" alt="ESP8266">
 
 **tools**<br>
-![Linux](https://img.shields.io/badge/Linux-39FF14?style=for-the-badge&logo=linux&logoColor=0A0A0A)
-![Git](https://img.shields.io/badge/Git-39FF14?style=for-the-badge&logo=git&logoColor=0A0A0A)
-![MySQL](https://img.shields.io/badge/MySQL-39FF14?style=for-the-badge&logo=mysql&logoColor=0A0A0A)
-![Vercel](https://img.shields.io/badge/Vercel-39FF14?style=for-the-badge&logo=vercel&logoColor=0A0A0A)
+<img src="https://img.shields.io/badge/Linux-3FB950?style=for-the-badge&logo=linux&logoColor=0A0A0A" height="36" alt="Linux">
+<img src="https://img.shields.io/badge/Git-3FB950?style=for-the-badge&logo=git&logoColor=0A0A0A" height="36" alt="Git">
+<img src="https://img.shields.io/badge/MySQL-3FB950?style=for-the-badge&logo=mysql&logoColor=0A0A0A" height="36" alt="MySQL">
+<img src="https://img.shields.io/badge/Vercel-3FB950?style=for-the-badge&logo=vercel&logoColor=0A0A0A" height="36" alt="Vercel">
 
 ---
 
@@ -62,10 +62,10 @@ Estudante de Ciência da Computação em Brasília-DF. Gosto de entender o que a
 ## > TELEMETRY
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucMoura&theme=github_dark&bg_color=0A0A0A&title_color=39FF14&text_color=C9D1D9&border_color=39FF14&chart_color=39FF14" alt="Resumo do perfil: contribuições, repositórios e atividade" width="100%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucMoura&theme=github_dark&bg_color=0A0A0A&title_color=3FB950&text_color=C9D1D9&border_color=3FB950&chart_color=3FB950" alt="Resumo do perfil: contribuições, repositórios e atividade" width="100%">
 </p>
 
-| ![Top linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucMoura&theme=github_dark&bg_color=0A0A0A&title_color=39FF14&text_color=C9D1D9&border_color=39FF14&chart_color=39FF14&exclude_repos=REA) | ![Streak](https://streak-stats.demolab.com?user=LucMoura&background=0A0A0A&border=39FF14&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=F0F0F0&sideNums=F0F0F0&hide_border=false) |
+| ![Top linguagens](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucMoura&theme=github_dark&bg_color=0A0A0A&title_color=3FB950&text_color=C9D1D9&border_color=3FB950&chart_color=3FB950&exclude_repos=REA) | ![Streak](https://streak-stats.demolab.com?user=LucMoura&background=0A0A0A&border=3FB950&stroke=3FB950&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=F0F0F0&sideNums=F0F0F0&hide_border=false) |
 | :---: | :---: |
 
 ---
@@ -85,13 +85,13 @@ Estudante de Ciência da Computação em Brasília-DF. Gosto de entender o que a
 ## > ESTABLISH_CONNECTION
 
 <p>
-  <a href="mailto:lsam.lucmoura0410@gmail.com"><img src="https://img.shields.io/badge/Gmail-39FF14?style=for-the-badge&logo=gmail&logoColor=0A0A0A" alt="Gmail"></a>
-  <a href="https://www.linkedin.com/in/lucas-salles-moura/"><img src="https://img.shields.io/badge/LinkedIn-39FF14?style=for-the-badge&logo=linkedin&logoColor=0A0A0A" alt="LinkedIn"></a>
-  <a href="https://github.com/LucMoura"><img src="https://img.shields.io/badge/GitHub-39FF14?style=for-the-badge&logo=github&logoColor=0A0A0A" alt="GitHub"></a>
+  <a href="mailto:lsam.lucmoura0410@gmail.com"><img src="https://img.shields.io/badge/Gmail-3FB950?style=for-the-badge&logo=gmail&logoColor=0A0A0A" height="36" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/lucas-salles-moura/"><img src="https://img.shields.io/badge/LinkedIn-3FB950?style=for-the-badge&logo=linkedin&logoColor=0A0A0A" height="36" alt="LinkedIn"></a>
+  <a href="https://github.com/LucMoura"><img src="https://img.shields.io/badge/GitHub-3FB950?style=for-the-badge&logo=github&logoColor=0A0A0A" height="36" alt="GitHub"></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LucMoura&label=VISITORS&color=39FF14&labelColor=0A0A0A&style=for-the-badge" alt="Visitantes do perfil">
+  <img src="https://komarev.com/ghpvc/?username=LucMoura&label=VISITORS&color=3FB950&labelColor=0A0A0A&style=for-the-badge" height="36" alt="Visitantes do perfil">
 </p>
 
 <p align="center"><sub><code>&gt; EOF</code></sub></p>
