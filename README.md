@@ -70,12 +70,28 @@ Estudante de Ciência da Computação em Brasília-DF. Gosto de entender o que a
 
 ---
 
+## > SNAKE_PROTOCOL
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucMoura/LucMoura/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucMoura/LucMoura/output/snake-light.svg">
+    <img src="https://raw.githubusercontent.com/LucMoura/LucMoura/output/snake-dark.svg" alt="Cobra comendo o gráfico de contribuições" width="100%">
+  </picture>
+</p>
+
+---
+
 ## > ESTABLISH_CONNECTION
 
 <p>
   <a href="mailto:lsam.lucmoura0410@gmail.com"><img src="https://img.shields.io/badge/Gmail-39FF14?style=for-the-badge&logo=gmail&logoColor=0A0A0A" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/lucas-salles-moura/"><img src="https://img.shields.io/badge/LinkedIn-39FF14?style=for-the-badge&logo=linkedin&logoColor=0A0A0A" alt="LinkedIn"></a>
   <a href="https://github.com/LucMoura"><img src="https://img.shields.io/badge/GitHub-39FF14?style=for-the-badge&logo=github&logoColor=0A0A0A" alt="GitHub"></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LucMoura&label=VISITORS&color=39FF14&labelColor=0A0A0A&style=for-the-badge" alt="Visitantes do perfil">
 </p>
 
 <p align="center"><sub><code>&gt; EOF</code></sub></p>
