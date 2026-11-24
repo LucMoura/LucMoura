@@ -51,7 +51,7 @@ Estudante de Ciência da Computação em Brasília-DF. Gosto de entender o que a
 | ALVO | DESCRIÇÃO | STACK |
 | :--- | :--- | :--- |
 | **[AutoMatch](https://github.com/LucMoura/AutoMatch)** | Plataforma full-stack de recomendação de veículos com motor de IA e três serviços integrados. | `JavaScript` `PostgreSQL` `AI` |
-| **[HarmonicField](https://github.com/LucMoura/HarmonicField)** | Explorador de teoria musical em Rust: escalas, acordes e campos harmônicos no terminal. | `Rust` |
+| **[NetVigil](https://github.com/LucMoura/NetVigil)** | Ferramenta de monitoramento de redes. | `Rust` |
 | **[Controlador_ESP8266](https://github.com/LucMoura/Controlador_ESP8266)** | Controle de relé via web com ESP8266 — firmware em C e interface embarcada. | `C` `ESP8266` |
 | **[mini-pac-c](https://github.com/LucMoura/mini-pac-c)** | Pac-Man em C puro, sem engine: game loop e renderização no terminal. | `C` |
 | **[criptozap](https://github.com/LucMoura/criptozap)** | Chat com criptografia de mensagens em PHP + MySQL, com autenticação. | `PHP` `MySQL` |
